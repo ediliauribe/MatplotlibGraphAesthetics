@@ -1,1 +1,1 @@
-# MatplotlibGraphAesthetics
+# Matplotlib Graph Aesthetics
