@@ -1,4 +1,4 @@
-This is my respositoy
+This is my respository
 
 # Matplotlib Graph Aesthetics
  
